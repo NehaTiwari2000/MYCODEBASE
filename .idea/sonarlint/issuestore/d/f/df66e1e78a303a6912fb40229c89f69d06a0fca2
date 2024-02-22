@@ -1,0 +1,22 @@
+
+n	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Åğ‹«ıÿÿÿÿ8÷»öûÜ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú÷­»ıÿÿÿÿ8ù»öûÜ1
+m
+java:S3655&"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ıç…÷8ƒ¼öûÜ1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ëı³»8ˆ¼öûÜ1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(–ª™Ä8‰¼öûÜ1
+G	java:S106"+Replace this use of System.out by a logger.(¥şÍå8Œ¼öûÜ1
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(•ç»èüÿÿÿÿ8Œ¼öûÜ1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(òƒ€Ó8¼öûÜ1
+Z
+java:S1612"=Replace this lambda with method reference 'Object::toString'.(òƒ€Ó8¼öûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(Ò£¾‰üÿÿÿÿ8’¼öûÜ1
+G	java:S106"+Replace this use of System.out by a logger.(ç¹ª8“¼öûÜ1
+t
+java:S6204!"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(€Ù‰¡üÿÿÿÿ8”¼öûÜ1
+G	java:S106""+Replace this use of System.out by a logger.(Şî¢ç8—¼öûÜ1
+G	java:S106'"+Replace this use of System.out by a logger.(”ûËÑ8˜¼öûÜ1

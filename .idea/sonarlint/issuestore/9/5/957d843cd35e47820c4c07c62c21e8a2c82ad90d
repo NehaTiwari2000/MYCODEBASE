@@ -1,0 +1,24 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿÙ¿¦8‹×öûÜ1
+B
+java:S2129" Remove this "String" constructor(ôˆàÉıÿÿÿÿ8´×öûÜ1
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(†¢ƒŞşÿÿÿÿ8µ×öûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(¹Ø•íüÿÿÿÿ8¶×öûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(åÇƒ„úÿÿÿÿ8º×öûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(¬ó˜°ıÿÿÿÿ8»×öûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(š—“¿ÿÿÿÿÿ8¼×öûÜ1
+L	java:S106 "+Replace this use of System.out by a logger.(¬ó˜°ıÿÿÿÿ8¼×öûÜ1
+L	java:S106&"+Replace this use of System.out by a logger.(Ğ±÷Ûşÿÿÿÿ8½×öûÜ1
+o
+java:S6204)"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ü½Á¶8¾×öûÜ1
+G	java:S106*"+Replace this use of System.out by a logger.(´¬ë8¾×öûÜ1
+W	java:S1259"<This block of commented-out lines of code should be removed.(´ÿÅ|8À×öûÜ1
+X	java:S125B"<This block of commented-out lines of code should be removed.(¡¸™©8À×öûÜ1
+L	java:S106F"+Replace this use of System.out by a logger.(³š¾ğùÿÿÿÿ8Á×öûÜ1
+t
+java:S6204H"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(‰şÇşÿÿÿÿ8Á×öûÜ1
+L	java:S106N"+Replace this use of System.out by a logger.(Ù–±äøÿÿÿÿ8Ã×öûÜ1
+X	java:S125P"<This block of commented-out lines of code should be removed.(æÓñî8Ã×öûÜ1
+W
+java:S1128":Remove this unused import 'java.util.stream.DoubleStream'.(óÖĞ©8Ä×öûÜ1

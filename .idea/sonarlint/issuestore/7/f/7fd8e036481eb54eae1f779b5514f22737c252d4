@@ -1,0 +1,9 @@
+
+7
+java:S1220""Move this file to a named package.8äÑöûÜ1
+D
+java:S1125"'Remove the unnecessary boolean literal.(ûÅŸ8›ÒöûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(·Ô÷ùÿÿÿÿ8œÒöûÜ1
+L
+java:S1197#"*Move the array designators [] to the type.(õêûËúÿÿÿÿ8ÒöûÜ1
+G	java:S106%"+Replace this use of System.out by a logger.(Í¸èÅ8ŸÒöûÜ1

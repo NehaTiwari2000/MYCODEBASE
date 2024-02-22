@@ -1,0 +1,27 @@
+
+{
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(²Ó•ûÿÿÿÿ8†¾öûÜ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú÷­»ıÿÿÿÿ8Š¾öûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(«æ¢Şşÿÿÿÿ8Â¾öûÜ1
+G	java:S106"+Replace this use of System.out by a logger.(³Úóú8Â¾öûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(š—“¿ÿÿÿÿÿ8Ä¾öûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(É™Êùÿÿÿÿ8Æ¾öûÜ1
+G	java:S106!"+Replace this use of System.out by a logger.(×˜ŞŞ8Ê¾öûÜ1
+L	java:S106'"+Replace this use of System.out by a logger.(»÷¸ùûÿÿÿÿ8Ì¾öûÜ1
+G	java:S106("+Replace this use of System.out by a logger.(ğÔ‘¬8Ì¾öûÜ1
+o
+java:S6204,"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ÚçÙø8Î¾öûÜ1
+G	java:S106-"+Replace this use of System.out by a logger.(¢ò§»8Ğ¾öûÜ1
+L	java:S1062"+Replace this use of System.out by a logger.(»—Íİıÿÿÿÿ8Ò¾öûÜ1
+G	java:S1065"+Replace this use of System.out by a logger.(ôâ¶Ñ8Ô¾öûÜ1
+t
+java:S62048"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(“×şùÿÿÿÿ8Ô¾öûÜ1
+G	java:S1069"+Replace this use of System.out by a logger.(©šŒ•8×¾öûÜ1
+G	java:S106;"+Replace this use of System.out by a logger.(‰‚‡Ô8Ø¾öûÜ1
+L	java:S106B"+Replace this use of System.out by a logger.(İ¤Æüÿÿÿÿ8Ù¾öûÜ1
+L	java:S106N"+Replace this use of System.out by a logger.(î¡”“üÿÿÿÿ8Ş¾öûÜ1
+G	java:S106O"+Replace this use of System.out by a logger.(ä×8Ş¾öûÜ1
+G	java:S106Q"+Replace this use of System.out by a logger.(şõ‘›8à¾öûÜ1
+G	java:S106V"+Replace this use of System.out by a logger.(Å‚´Ê8â¾öûÜ1
+Y
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8ã¾öûÜ1

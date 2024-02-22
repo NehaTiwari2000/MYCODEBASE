@@ -1,0 +1,10 @@
+
+J
+java:S1604-"(Make this anonymous inner class a lambda(¶ùŠöûÿÿÿÿ8¸¼öûÜ1
+G	java:S106"+Replace this use of System.out by a logger.(‚ÎšÛ8Î¼öûÜ1
+G	java:S106"+Replace this use of System.out by a logger.(×¸†¨8Ğ¼öûÜ1
+X	java:S125("<This block of commented-out lines of code should be removed.(äÌÛ–8×¼öûÜ1
+G	java:S1063"+Replace this use of System.out by a logger.(ö›²8İ¼öûÜ1
+v
+java:S1210k"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¢æ™®8ß¼öûÜ1
+]	java:S125m"<This block of commented-out lines of code should be removed.(Şî›Ãùÿÿÿÿ8æ¼öûÜ1

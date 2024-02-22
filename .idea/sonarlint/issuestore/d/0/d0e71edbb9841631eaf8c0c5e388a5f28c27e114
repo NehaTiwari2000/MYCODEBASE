@@ -1,0 +1,8 @@
+
+7
+java:S1220""Move this file to a named package.8ÁÒöûÜ1
+L
+java:S1197#"*Move the array designators [] to the type.(õêûËúÿÿÿÿ8†ÓöûÜ1
+G	java:S106%"+Replace this use of System.out by a logger.(Í¸èÅ8‡ÓöûÜ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8‰ÓöûÜ1

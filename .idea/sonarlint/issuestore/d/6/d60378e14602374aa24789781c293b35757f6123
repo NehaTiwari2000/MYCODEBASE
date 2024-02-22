@@ -1,0 +1,33 @@
+
+v
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñÖÉŸ8ì×öûÜ1
+n	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Œñ‰îøÿÿÿÿ8î×öûÜ1
+]
+java:S1854,"@Remove this useless assignment to local variable "integerList1".(»êíê8ü×öûÜ1
+a
+java:S1854'"?Remove this useless assignment to local variable "oddNumbers2".(ÆƒõŠùÿÿÿÿ8ü×öûÜ1
+n
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ğßîL8ı×öûÜ1
+X	java:S125"<This block of commented-out lines of code should be removed.(¶Àª8ş×öûÜ1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ûî¥ 8ş×öûÜ1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ëë¡¨8ÿ×öûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(ÛØøşÿÿÿÿ8€ØöûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(Ùêš¬ùÿÿÿÿ8ØöûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(ÆÇâÈıÿÿÿÿ8‚ØöûÜ1
+G	java:S106"+Replace this use of System.out by a logger.(Êß¥ñ8ƒØöûÜ1
+L	java:S106 "+Replace this use of System.out by a logger.(ËÊ€‡øÿÿÿÿ8ƒØöûÜ1
+L	java:S106$"+Replace this use of System.out by a logger.(ÆÇâÈıÿÿÿÿ8„ØöûÜ1
+R
+java:S1481'"0Remove this unused "oddNumbers2" local variable.(ÆƒõŠùÿÿÿÿ8…ØöûÜ1
+G	java:S106)"+Replace this use of System.out by a logger.(Êß¥ñ8…ØöûÜ1
+L	java:S106*"+Replace this use of System.out by a logger.(ËÊ€‡øÿÿÿÿ8‡ØöûÜ1
+o
+java:S6204,"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(»êíê8‡ØöûÜ1
+N
+java:S1481,"1Remove this unused "integerList1" local variable.(»êíê8‰ØöûÜ1
+G	java:S106:"+Replace this use of System.out by a logger.(¢Î€’8‹ØöûÜ1
+F	java:S106>"+Replace this use of System.out by a logger.(·÷™o8ØöûÜ1
+L	java:S106?"+Replace this use of System.out by a logger.(¬ó˜°ıÿÿÿÿ8ØöûÜ1

@@ -1,0 +1,15 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ®­8‹ÊöûÜ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Çµí‘8“ÍöûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(úº‘üÿÿÿÿ8–ÍöûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8–ÍöûÜ1
+G	java:S106""+Replace this use of System.out by a logger.(ÙŒÉ8—ÍöûÜ1
+L	java:S106&"+Replace this use of System.out by a logger.(ÁŠ€üÿÿÿÿÿ8˜ÍöûÜ1
+]	java:S125'"<This block of commented-out lines of code should be removed.(Í÷©øÿÿÿÿ8˜ÍöûÜ1
+L	java:S1061"+Replace this use of System.out by a logger.(»úÙ€ûÿÿÿÿ8šÍöûÜ1
+X	java:S1252"<This block of commented-out lines of code should be removed.(ÄúÑ”8šÍöûÜ1
+L	java:S106;"+Replace this use of System.out by a logger.(˜ÕÎüÿÿÿÿ8›ÍöûÜ1
+X	java:S125<"<This block of commented-out lines of code should be removed.(àĞÆô8›ÍöûÜ1
+L	java:S106E"+Replace this use of System.out by a logger.(Ó¦ö‡şÿÿÿÿ8œÍöûÜ1
+X	java:S125F"<This block of commented-out lines of code should be removed.(º×Ø8œÍöûÜ1

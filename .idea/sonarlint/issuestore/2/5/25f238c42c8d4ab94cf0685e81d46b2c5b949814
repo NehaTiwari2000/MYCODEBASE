@@ -1,0 +1,24 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú÷­»ıÿÿÿÿ8Â½öûÜ1
+W
+java:S18543";Remove this useless assignment to local variable "collect".(ø­‡#8Ñ½öûÜ1
+Y
+java:S18541"<Remove this useless assignment to local variable "collect1".(ÊöÁÌ8Ñ½öûÜ1
+Z
+java:S1854"=Remove this useless assignment to local variable "function1".(æåğŸ8Ñ½öûÜ1
+T
+java:S1854"7Remove this useless assignment to local variable "fun".(’¨†8Ñ½öûÜ1
+N
+java:S1602",Remove useless curly braces around statement(ŸàÁìşÿÿÿÿ8Ò½öûÜ1
+G	java:S106"+Replace this use of System.out by a logger.(Â’ñÏ8Ó½öûÜ1
+F	java:S106"+Replace this use of System.out by a logger.(Èäô\8Ô½öûÜ1
+E
+java:S1481"(Remove this unused "fun" local variable.(’¨†8Ô½öûÜ1
+K
+java:S1481".Remove this unused "function1" local variable.(æåğŸ8Õ½öûÜ1
+\
+java:S1612(":Replace this lambda with method reference 'integers::add'.(©å¿Şıÿÿÿÿ8×½öûÜ1
+J
+java:S14811"-Remove this unused "collect1" local variable.(ÊöÁÌ8Ü½öûÜ1
+H
+java:S14813",Remove this unused "collect" local variable.(ø­‡#8Ş½öûÜ1

@@ -1,0 +1,15 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™È¢şÿÿÿÿ8×ÖöûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(öß«·üÿÿÿÿ8ãÖöûÜ1
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(üîÔŒşÿÿÿÿ8äÖöûÜ1
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(å‚ÖËıÿÿÿÿ8åÖöûÜ1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¸¢¸¿8çÖöûÜ1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ê–áé8éÖöûÜ1
+G	java:S106"+Replace this use of System.out by a logger.(ù•Æ¿8êÖöûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(Ê¨äëøÿÿÿÿ8ëÖöûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(ÃÔëñüÿÿÿÿ8ëÖöûÜ1
+G	java:S106"+Replace this use of System.out by a logger.(Öç®8ëÖöûÜ1

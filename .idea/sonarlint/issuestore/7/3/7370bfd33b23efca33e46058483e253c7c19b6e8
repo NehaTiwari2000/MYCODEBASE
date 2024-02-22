@@ -1,0 +1,13 @@
+
+e
+java:S1192"HDefine a constant instead of duplicating this literal "NG Park" 3 times.(±Ñ¼•8‚½öûÜ1
+h
+java:S1192"KDefine a constant instead of duplicating this literal "9769162427" 4 times.(±Ñ¼•8‚½öûÜ1
+n	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Àâ‹üÿÿÿÿ8„½öûÜ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú÷­»ıÿÿÿÿ8…½öûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(¨Õ‘¤ùÿÿÿÿ8œ½öûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(½é˜èşÿÿÿÿ8Ÿ½öûÜ1
+G	java:S106!"+Replace this use of System.out by a logger.(ĞÇ·Ğ8 ½öûÜ1
+L	java:S106%"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8¡½öûÜ1
+L	java:S106/"+Replace this use of System.out by a logger.(Ç‰·šûÿÿÿÿ8£½öûÜ1
+L	java:S106;"+Replace this use of System.out by a logger.(½‡µ¤ıÿÿÿÿ8¥½öûÜ1

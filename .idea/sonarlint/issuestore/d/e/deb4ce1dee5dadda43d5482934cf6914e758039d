@@ -1,0 +1,27 @@
+
+n	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ğ´‚ùÿÿÿÿ8‹ÕöûÜ1
+m
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ê×ÅÂ8˜ÕöûÜ1
+r
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ç½ĞÖøÿÿÿÿ8˜ÕöûÜ1
+[
+java:S1854$"?Remove this useless assignment to local variable "numberList3".(š¼Ô_8ÕöûÜ1
+a
+java:S1854#"?Remove this useless assignment to local variable "numberList2".(¤Şµ¶ûÿÿÿÿ8ÕöûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(š—“¿ÿÿÿÿÿ8¡ÕöûÜ1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ëı³»8¡ÕöûÜ1
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ú¼›Ôúÿÿÿÿ8¢ÕöûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(™é½ÿÿÿÿÿ8¤ÕöûÜ1
+G	java:S106"+Replace this use of System.out by a logger.(·¤ùı8¥ÕöûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(†œùÿÿÿÿ8¦ÕöûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(ÚÌàşÿÿÿÿ8©ÕöûÜ1
+G	java:S106"+Replace this use of System.out by a logger.(±‰­ô8ªÕöûÜ1
+L	java:S106 "+Replace this use of System.out by a logger.(—á–àüÿÿÿÿ8ªÕöûÜ1
+R
+java:S1481#"0Remove this unused "numberList2" local variable.(¤Şµ¶ûÿÿÿÿ8«ÕöûÜ1
+L
+java:S1481$"0Remove this unused "numberList3" local variable.(š¼Ô_8«ÕöûÜ1
+O
+java:S1128"2Remove this unused import 'java.util.OptionalInt'.(š”üÏ8¬ÕöûÜ1

@@ -1,0 +1,13 @@
+
+e
+java:S11928"HDefine a constant instead of duplicating this literal "Created" 4 times.(Ş±’¨8¬ĞöûÜ1
+G	java:S106"+Replace this use of System.out by a logger.(æĞıÊ8èĞöûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(á¸Ğ€øÿÿÿÿ8éĞöûÜ1
+L	java:S106"+Replace this use of System.out by a logger.(Ş…»•øÿÿÿÿ8êĞöûÜ1
+w
+java:S18450"URename method "sizeOfLL" to prevent any misunderstanding/clash with field "sizeOfLL".(°§£¬şÿÿÿÿ8îĞöûÜ1
+F	java:S1061"+Replace this use of System.out by a logger.(â’8òĞöûÜ1
+X	java:S125L"<This block of commented-out lines of code should be removed.(ì™°³8øĞöûÜ1
+M	java:S106´"+Replace this use of System.out by a logger.(‹ß£‹ùÿÿÿÿ8ÿĞöûÜ1
+H	java:S106·"+Replace this use of System.out by a logger.(‰ùœ8ÿĞöûÜ1
+M	java:S106¸"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8€ÑöûÜ1

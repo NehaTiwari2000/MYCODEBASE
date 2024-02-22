@@ -1,0 +1,20 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ’ß†8ºìóûÜ1
+b
+java:S1226"EIntroduce a new variable instead of reusing the parameter "rootNode".(õŠã¨8¼ìóûÜ1
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(Í¶ªì8§íóûÜ1
+G	java:S106"+Replace this use of System.out by a logger.(”‰ñ„8«íóûÜ1
+L	java:S106""+Replace this use of System.out by a logger.(‹¯šùÿÿÿÿ8«íóûÜ1
+L	java:S106,"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÁíóûÜ1
+L	java:S1061"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÄíóûÜ1
+L	java:S1068"+Replace this use of System.out by a logger.(È…“¸øÿÿÿÿ8ÅíóûÜ1
+L	java:S106M"+Replace this use of System.out by a logger.(‹¯šùÿÿÿÿ8ÇíóûÜ1
+G
+java:S1197n"*Move the array designators [] to the type.(…¹Öœ8ÌíóûÜ1
+L	java:S106u"+Replace this use of System.out by a logger.(ÁŞ›øÿÿÿÿ8ÍíóûÜ1
+G	java:S106y"+Replace this use of System.out by a logger.(ÙŒÉ8ÎíóûÜ1
+G	java:S106z"+Replace this use of System.out by a logger.(»úø£8ÔíóûÜ1
+L	java:S106|"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÕíóûÜ1
+G	java:S106}"+Replace this use of System.out by a logger.(ÙŒÉ8ØíóûÜ1
+Y	java:S125€"<This block of commented-out lines of code should be removed.(ĞÆƒƒ8ØíóûÜ1
